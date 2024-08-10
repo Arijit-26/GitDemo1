@@ -26,7 +26,7 @@ import com.fasterxml.jackson.databind.ObjectMapper;
 import seleniumframeworkdesign.pageobject.LoginPage;
 
 public class BaseTest {
-	
+	//New comment for git
      public WebDriver driver; 
      public LoginPage newLoginPage;   
       
