@@ -27,6 +27,7 @@ import seleniumframeworkdesign.pageobject.LoginPage;
 
 public class BaseTest {
 	//New comment for git
+	//New comment for git, by user X
      public WebDriver driver; 
      public LoginPage newLoginPage;   
       
