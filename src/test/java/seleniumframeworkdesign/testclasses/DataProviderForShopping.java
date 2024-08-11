@@ -16,6 +16,8 @@ import seleniumframeworkdesign.pageobject.SuccessfulOrderPage;
 
 public class DataProviderForShopping extends BaseTest {
 
+	//Comment made by Y's architect in develop branch
+	
 	@Test(dataProvider="getData")                //The two sets of data are fed to the test method using (dataProvider) attribute. So the test method will run 2 times
 	
 	public void shopping(String email,String password,String product) throws InterruptedException, IOException {
